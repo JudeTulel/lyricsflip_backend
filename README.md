@@ -33,7 +33,13 @@ cd lyricflip-backend
 npm install
 ```
 
+## Environment Setup
+```bash
+#run the setup script to setup you env variables 
 
+npm run setup
+
+```
 
 
 
